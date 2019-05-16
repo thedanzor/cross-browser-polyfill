@@ -1,24 +1,40 @@
 {
   "name": "cross-browser-polyfill",
-  "version": "0.0.2",
+  "version": "1.0.4",
   "description": "A polyfill to make Cross Browser Support much easier!",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "src/index.js",
   "keywords": [
     "browser",
     "polyfill",
     "js",
     "javascript",
     "cross-browser",
-    "cross-browser-compatibility"
+    "cross-browser-compatibility",
+    "Internet Explorer",
+    "IE",
+    "ES6",
+    "Babel",
+    "Transpile",
+    "append ie",
+    "closest ie",
+    "getBoundingClientRect",
+    "matches ie",
+    "prepend ie",
+    "remove ie",
+    "replacewith ie",
+    "foreach nodelist ie"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dvandervlag/cross-browser-polyfill"
   },
   "author": "Dennis van der Vlag <dvandervlag@gmail.com>",
+  "contributors": [
+    {
+      "name": "Scott Jones",
+      "email": "sjones243@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dvandervlag/cross-browser-polyfill/issues"
